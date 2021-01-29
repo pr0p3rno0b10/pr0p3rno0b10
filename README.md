@@ -2,7 +2,7 @@
 
 My name is pr0p3rno0b10. I like to code in Python 🐍 and Java ☕️.
 
-#### Three things about me
+#### Four things about me
 
 * Working on recreating Happy Mrs Chicken from Peppa pig 🐷.
 * I like to code random projects 🎲.
