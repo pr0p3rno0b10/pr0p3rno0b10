@@ -6,4 +6,3 @@ Learning Javascript though.
 
 In this profile you will probably see all of my nice and fun projects.
 
-Everything will have a description.
